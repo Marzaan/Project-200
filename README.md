@@ -1,2 +1,2 @@
 # Project-200
-Chess Game(Two player)
+Two player's Chess Game(Java)
